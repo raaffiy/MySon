@@ -1,8 +1,8 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:ortu/screens/start/components/AnimatedBtn.dart';
-import 'package:ortu/screens/start/components/signin_dialog.dart';
 import 'package:rive/rive.dart';
+import 'package:school/screens/start/components/AnimatedBtn.dart';
+import 'package:school/screens/start/components/signin_dialog.dart';
 
 class StartPage extends StatefulWidget {
   const StartPage({super.key});

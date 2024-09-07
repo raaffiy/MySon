@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:ortu/screens/start/components/AnimatedBtn.dart';
-import 'package:ortu/screens/start/components/signin_dialog.dart';
+import 'package:op/screens/start/components/animatedBtn.dart';
+import 'package:op/screens/start/components/signinDialog.dart';
 import 'package:rive/rive.dart';
 
 class StartPage extends StatefulWidget {
@@ -77,7 +77,7 @@ class _StartPageState extends State<StartPage> {
                           child: Column(
                             children: [
                               Text(
-                                "Welcome Teacher",
+                                "Welcome Operator",
                                 style: TextStyle(
                                   fontSize: 57,
                                   fontFamily: "Poppins",
