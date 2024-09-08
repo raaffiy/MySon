@@ -77,7 +77,7 @@ class _StartPageState extends State<StartPage> {
                           child: Column(
                             children: [
                               Text(
-                                "Welcome Teacher",
+                                "Welcome Family",
                                 style: TextStyle(
                                   fontSize: 57,
                                   fontFamily: "Poppins",

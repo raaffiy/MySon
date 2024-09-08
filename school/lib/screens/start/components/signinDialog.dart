@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:school/screens/start/components/signin_form.dart';
+import 'package:school/screens/start/components/signinForm.dart';
 
 Future<Object?> customSigninDialog(BuildContext context,
     {required ValueChanged onClose}) {
